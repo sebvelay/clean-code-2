@@ -255,13 +255,14 @@ Après renommage, vérifier que le comportement est effectivement symétrique
 ---
 
 ## Code smell
-
+<div class="fragment">
 Terme inventé par Kent Beck et popularisé par Martin Fowler
 
 - *Une notion intuitive...*
   - « If it stinks, change it » – Beck
   - Impression déplaisante produite par un anti-pattern
-
+</div>
+  
 ----
 
 - *… mais rendue plus précise/objective par la littérature existante*
