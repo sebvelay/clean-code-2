@@ -185,9 +185,9 @@ Même dans un module bien conçu, la difficulté de compréhension augmente beau
 <b>Correct</b><br />
 Quand c’est possible, pousser le couplage faible à l’extrême : concevoir des types entièrement autoporteurs
 
-&rarr; Ce pattern s'applique surtout aux *Value Objects*
+On a un objet responsable de son état
 
-&rarr; Il est lié au pattern suivant : *Closure of Operations*
+On a un objet qui porte les operations / les règles métier qui lui sont lié (closure of operations)
 </div>
 </div>
 
