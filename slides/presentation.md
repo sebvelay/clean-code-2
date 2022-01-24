@@ -77,7 +77,7 @@ Faire une revue de code de `supple.guard.BookingService`, en particulier `Bookin
 Le compilateur n'interdit pas aux clients de
 
 ```
-findSalleReservable()
+book(int capacityMin)
 ``` 
 
 de passer
@@ -119,8 +119,6 @@ Plusieurs méthodes de défense en fonction du contexte :
 - *Post-conditions* : vérifications en fin de méthode, portant sur :
     - le retour (`AssertionError`)
     - l'état de l'objet (`IllegalStateException`)
-- *Invariants* : vérifications en fin de méthode publique, portant sur :
-    - l'état de l'objet, typiquement cohérence entre 2 champs (`AssertionError`)
 
 </div>
 
