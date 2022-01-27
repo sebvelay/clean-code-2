@@ -1,3 +1,13 @@
+# Clean Code 2
+
+Ce repository regroupe des exercices fait lors d'un kata autour de clean code. Il est accompagné de quelques slides. 
+
+## Visualiser les slides
+
+`reveal-md ./Slides/presentation.md --css ./Slides/css/style.css`
+
+Installation de reveal-md : https://github.com/webpro/reveal-md
+
 # Exo
 
 ## Supple design
